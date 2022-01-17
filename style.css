@@ -28,11 +28,7 @@ body {
   display: flex;
   min-height: 100vh;
   font: 16/1.1 "Roboto", sans-serif;
-  background: linear-gradient(
-    45deg,
-    rgba(205, 155, 225, 0.6),
-    hsla(240, 100%, 80%, 0.6)
-  );
+  background: white;
   padding-block: 2em;
 }
 
